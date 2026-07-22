@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 90" width="720" height="90">
+  <style>
+    text {
+      font-family: Verdana, Geneva, sans-serif;
+      font-weight: 800;
+      fill: #800020;
+    }
+    .line1-clip rect {
+      animation: reveal1 11s linear infinite;
+    }
+    .line2-clip rect {
+      animation: reveal2 11s linear infinite;
+    }
+    @keyframes reveal1 {
+      0%     { width: 0px; }
+      27.27% { width: 270px; }
+      100%   { width: 270px; }
+    }
+    @keyframes reveal2 {
+      0%     { width: 0px; }
+      27.27% { width: 0px; }
+      72.73% { width: 680px; }
+      100%   { width: 680px; }
+    }
+  </style>
+
+  <clipPath id="clip-line1" class="line1-clip">
+    <rect x="0" y="0" width="0" height="45" />
+  </clipPath>
+  <clipPath id="clip-line2" class="line2-clip">
+    <rect x="0" y="45" width="0" height="45" />
+  </clipPath>
+
+  <text x="0" y="35" font-size="35" clip-path="url(#clip-line1)">Vivian Norum</text>
+  <text x="0" y="72" font-size="22" clip-path="url(#clip-line2)">More comfortable under a car than in a codebase</text>
+</svg>
