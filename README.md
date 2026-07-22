@@ -18,6 +18,8 @@
 
 My name is Vivian Norum, an undergrad in Mechanical Engineering and Robotics. I'm an undergraduate researcher at Caltech's AMBER Lab, where I work on the ATMOS free-flyer platform — a robotics testbed that uses air-bearing microgravity environments to simulate orbital dynamics for drone and autonomous landing systems research.
 
+[![Vivian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VivianNorum&theme=github-compact&hide_border=true&area=true)](https://github.com/VivianNorum)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
