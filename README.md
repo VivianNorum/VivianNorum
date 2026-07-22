@@ -24,11 +24,13 @@ If you've stumbled across my page, I guess you are here to read about me… I'm 
 
 [![Vivian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VivianNorum&theme=github-compact&hide_border=true&area=true)](https://github.com/VivianNorum)
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
   <img alt="github-snake" src="./images/github-snake.svg" style="width: 100%;" />
 </picture>
+-->
 
 <picture>
   <source srcset="https://sakura-garden.vercel.app/api/svg?username=VivianNorum&theme=dark" media="(prefers-color-scheme: dark)"/>
