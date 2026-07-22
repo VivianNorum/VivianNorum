@@ -14,7 +14,7 @@
 
 <br>
 
-# <img src="https://raw.githubusercontent.com/VivianNorum/VivianNorum/main/cat.gif" width="30px"> Hi there
+# <img src="https://raw.githubusercontent.com/VivianNorum/VivianNorum/main/cat.gif" width="60px"> Hi there
 
 My name is Vivian Norum, an undergrad in Mechanical Engineering and Robotics. I'm an undergraduate researcher at Caltech's AMBER Lab, where I work on the ATMOS free-flyer platform — a robotics testbed that uses air-bearing microgravity environments to simulate orbital dynamics for drone and autonomous landing systems research.
 
