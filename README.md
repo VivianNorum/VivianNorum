@@ -29,3 +29,9 @@ If you've stumbled across my page, I guess you are here to read about me… I'm 
   <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
   <img alt="github-snake" src="./images/github-snake.svg" style="width: 100%;" />
 </picture>
+
+<picture>
+  <source srcset="https://sakura-garden.vercel.app/api/svg?username=VivianNorum&theme=dark" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://sakura-garden.vercel.app/api/svg?username=VivianNorum&theme=light" media="(prefers-color-scheme: light)"/>
+  <img src="https://sakura-garden.vercel.app/api/svg?username=VivianNorum&theme=light" alt="sakura contributions" width="1000"/>
+</picture>
